@@ -60,5 +60,5 @@ CLOUDINARY_KEY=<your-cloud-key>
 CLOUDINARY_SECRET=<your-cloud-secret>
 MAPBOX_TOKEN=<your-mapbox-token>
 DB_URL=<your-mongo-atlas-url>
-SECRET=<random-number> (for encryption)
+SECRET=<random-alphanumeric-value> (for encryption)
 ```
